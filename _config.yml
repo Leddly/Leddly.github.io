@@ -266,6 +266,8 @@ defaults:
       related: true
       mathjax: true
       sidebar_main: true
+      sidebar:
+        nab: "mycat"
   - scope:
       path: "_pages"
       type: pages
