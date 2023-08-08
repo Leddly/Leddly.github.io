@@ -277,6 +277,12 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  - scope:
+      path: ""
+      type: mycat
+    values:
+      sidebar:
+        nav: "mycat"
 
 collections:
   portfolio:

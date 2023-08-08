@@ -14,7 +14,7 @@ main:
   #   url: /sitemap/
 
 
-sidebar:
+mycat:
   - title: "Kubernetes"
     children:
       - title: "k3s"
