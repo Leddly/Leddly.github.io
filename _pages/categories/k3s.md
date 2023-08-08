@@ -6,5 +6,5 @@ author_profile: true
 sidebar:
   nav: "mycat"
 ---
-{% assign posts = site.categories.categories.k3s %}
+{% assign posts = site.categories.k3s %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

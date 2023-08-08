@@ -264,6 +264,8 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
+      sidebar_main: true
   - scope:
       path: "_pages"
       type: pages
@@ -277,12 +279,18 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  - scope:
-      path: ""
-      type: mycat
-    values:
-      sidebar:
-        nav: "mycat"
+  # - scope:
+  #     path: ""
+  #     type: mycat
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  #     mathjax: true
+  #     sidebar_main: true
 
 collections:
   portfolio:
