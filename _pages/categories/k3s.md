@@ -1,7 +1,7 @@
 ---
 title: "k3s"
 layout: archive
-permalink: categories/k3s
+permalink: /k3s
 author_profile: true
 sidebar_main: true
 ---
