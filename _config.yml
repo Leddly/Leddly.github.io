@@ -265,9 +265,8 @@ defaults:
       share: true
       related: true
       mathjax: true
-      sidebar_main: true
       sidebar:
-        nab: "mycat"
+        nav: "categories"
   - scope:
       path: "_pages"
       type: pages

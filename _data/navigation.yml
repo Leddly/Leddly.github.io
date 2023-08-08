@@ -14,12 +14,12 @@ main:
   #   url: /sitemap/
 
 
-mycat:
+categories:
   - title: "Kubernetes"
     children:
       - title: "k3s"
-        url: /categories/k3s/
+        url: /categories/k3s
   - title: "Linux"
     children:
       - title: "network"
-        url: /categories/network/
+        url: /categories/network
