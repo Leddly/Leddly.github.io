@@ -14,7 +14,7 @@ main:
   #   url: /sitemap/
 
 
-sidebar-nav:
+sidebar:
   - title: "Kubernetes"
     children:
       - title: "k3s"
