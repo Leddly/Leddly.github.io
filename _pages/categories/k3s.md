@@ -1,6 +1,6 @@
 ---
 title: "k3s"
-layout: category
+layout: categories
 permalink: categories/k3s
 author_profile: true
 toc: true
